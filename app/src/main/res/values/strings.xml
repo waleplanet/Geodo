@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GeoDo</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="task_title">Task Title</string>
+    <string name="enter_location_address">Enter Location address</string>
+    <string name="save_task">Save Task</string>
+    <string name="no_location_detected">No Location detected</string>
+    <string name="permission_rationale">This application needs Location service for application to function properly</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+functionality.</string>
+    <string name="settings">Settings</string>
+    <string name="map_view">View Task in Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="list_view">View Tasks as List</string>
+    <string name="preview_task">Preview</string>
+    <string name="service_not_available">Service Not Available</string>
+    <string name="invalid_lat_long_used">Invalid Longitude or Latitude</string>
+    <string name="no_address_found">No matching Address found</string>
+    <string name="address_found">Address Found</string>
+    <string name="no_geocoder_available">No Geocoder Available</string>
+    <string name="address_empty">Adress is Empty</string>
+    <string name="illegal_arguments">Illegal Arguments Passed</string>
+    <string name="delete">delete</string>
+    <string name="select_location_from_map">Select Location From Map</string>
+</resources>
