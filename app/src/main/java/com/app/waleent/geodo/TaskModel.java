@@ -19,7 +19,7 @@ public class TaskModel {
     private String location;
     private String latitude;
     private String longitude;
-    public Boolean completed;
+    private Boolean completed;
 
     @TypeConverters(DateConverter.class)
     private Date createdDate;
