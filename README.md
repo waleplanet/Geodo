@@ -1,2 +1,2 @@
 # Geodo
-An andriod location-based todo application
+An android location-based todo application
